@@ -1,0 +1,16 @@
+{
+  "name": "aristotal",
+  "version": "1.0.0",
+  "description": "a backend project for aristotal. project have youtube and tweeter like functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "apis",
+    "vijay"
+  ],
+  "author": "vijay roy",
+  "license": "ISC"
+}
